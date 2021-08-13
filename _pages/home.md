@@ -10,39 +10,31 @@ header:
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
     - label: "<i class='fas fa-info-circle'></i> About"
-      url: "/docs/quick-start-guide/"
+      url: "/about/"
 excerpt: >
   Welcome to SeungU Lyu's website! <br />
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
-    title: "Current Projects"
+    title: "Projects"
     excerpt: "On-going projects"
-    url: "/docs/configuration/"
+    url: "/project/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
-    title: "Old Projects"
+    title: "Blog"
     excerpt: "Old projects done before"
-    url: "/docs/layouts/"
+    url: "/splash-page/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
-    title: "Blog"
+    title: "Gallery"
     excerpt: "My daily thoughts"
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
-gallery3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Blog"
-  - image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-    alt: "placeholder image 4"    
 ---
 
 {% include feature_row %}
-
-{% include gallery id="gallery3" %}
