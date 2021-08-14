@@ -15,7 +15,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "ELIC"
     excerpt: 'Rogue-Like card game made with Unity. Simple to play, but needs strategic combination of cards'
-    url: "#test-link"
+    url: "/project/project_test/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:

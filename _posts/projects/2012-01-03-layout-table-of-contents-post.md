@@ -1,5 +1,8 @@
 ---
 title: "Layout: Post with Table of Contents"
+permalink: /project/project_test/
+categories:
+  - Project
 header:
   image: assets/images/unsplash-image-9.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
