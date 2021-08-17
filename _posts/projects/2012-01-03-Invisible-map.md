@@ -1,6 +1,6 @@
 ---
-title: "KMLA72"
-permalink: /project/project_kmla72/
+title: "Invisible Map - IOS App Development"
+permalink: /project/project_invisible/
 categories:
   - Project
 header:

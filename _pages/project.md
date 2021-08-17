@@ -31,15 +31,15 @@ feature_row3:
     alt: "placeholder image 2"
     title: "SPLUX"
     excerpt: 'Splux is a multiplayer game in which 4 different players try to conquer earth using blocks'
-    url: "#test-link"
+    url: "/project/project_splux/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/project_invisible_map.jpg
     alt: "placeholder image 2"
-    title: "Invisible Map - IOS App development"
+    title: "Invisible Map - IOS App Development"
     excerpt: 'A game never seen before - Tetris but with 4 players in 4 different directions'
-    url: "#test-link"
+    url: "/project/project_invisible/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row5:
@@ -55,7 +55,7 @@ feature_row6:
     alt: "placeholder image 2"
     title: "Castle of Air"
     excerpt: 'A game never seen before - Tetris but with 4 players in 4 different directions'
-    url: "http://poe.olin.edu/2019/castleofair/"
+    url: "/project/project_castle/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row7:
@@ -71,7 +71,7 @@ feature_row8:
     alt: "placeholder image 2"
     title: "Ultimouse"
     excerpt: 'A game never seen before - Tetris but with 4 players in 4 different directions'
-    url: "#test-link"
+    url: "/project/project_ultimouse/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row9:

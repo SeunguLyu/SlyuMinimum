@@ -1,6 +1,6 @@
 ---
-title: "KMLA72"
-permalink: /project/project_kmla72/
+title: "Ultimouse"
+permalink: /project/project_ultimouse/
 categories:
   - Project
 header:
