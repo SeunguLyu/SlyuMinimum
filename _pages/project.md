@@ -2,11 +2,11 @@
 title: "Projects"
 layout: splash
 permalink: /project/
-date: 2016-03-23T11:48:41-04:00
+date: 2021-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/banner3.jpg
 excerpt: "SeungU Lyu's projects"
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
@@ -15,7 +15,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "ELIC"
     excerpt: 'Simple but strategic Rogue-Like card game exploring randomly generated worlds with combination of cards'
-    url: "/project/project_test/"
+    url: "/project/project_elic/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
@@ -23,7 +23,7 @@ feature_row2:
     alt: "placeholder image 2"
     title: "KMLA 72"
     excerpt: 'KMLA 72 is a fan game for Randy Kim, 18th wave KMLA alum. You have to survive as Randy for 3 days without being kicked out'
-    url: "#test-link"
+    url: "/project/project_kmla72/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
@@ -47,7 +47,7 @@ feature_row5:
     alt: "placeholder image 2"
     title: "Robo-Chess"
     excerpt: 'Robot arm that can play a full chess game against a real human player'
-    url: "#test-link"
+    url: "https://github.com/olinrobotics/hiro/tree/master/hiro_archive/Fall_2018/chess"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row6:
@@ -63,7 +63,7 @@ feature_row7:
     alt: "placeholder image 2"
     title: "Sound Labyrinth"
     excerpt: 'A game never seen before - Tetris but with 4 players in 4 different directions'
-    url: "#test-link"
+    url: "https://sd19fall.github.io/Sound-Labyrinth/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row8:
@@ -91,40 +91,34 @@ feature_row10:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row55:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/project_poke.jpg
     alt: "placeholder image 1"
     title: "Pokemon-PCA"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "https://htmlpreview.github.io/?https://github.com/SeunguLyu/Pokemon_PCA/blob/master/pokemon_type_pca_html.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/project_automata.jpg
     alt: "placeholder image 2"
     title: "Automata"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Box"
+  - image_path: /assets/images/project_laser.jpg
+    title: "Laser Box"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /assets/images/project_taiko.jpg
     title: "Taiko-Runner"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /assets/images/project_digital_eye.jpg
     title: "Digital Eye"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Hopper"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"

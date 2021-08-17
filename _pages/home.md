@@ -7,7 +7,7 @@ author_profile: true
 header:
   overlay_color: "#5e616c"
   overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/banner1.jpg
   actions:
     - label: "<i class='fas fa-info-circle'></i> About"
       url: "/about/"
