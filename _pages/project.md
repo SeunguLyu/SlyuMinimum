@@ -31,7 +31,7 @@ feature_row3:
     alt: "placeholder image 2"
     title: "SPLUX"
     excerpt: 'Splux is a multiplayer game in which 4 different players try to conquer earth using blocks'
-    url: "/project/project_splux/"
+    url: "https://www.crazygames.com/game/splux"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
@@ -55,7 +55,7 @@ feature_row6:
     alt: "placeholder image 2"
     title: "Castle of Air"
     excerpt: 'A game never seen before - Tetris but with 4 players in 4 different directions'
-    url: "/project/project_castle/"
+    url: "http://poe.olin.edu/2019/castleofair/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row7:
@@ -79,7 +79,7 @@ feature_row9:
     alt: "placeholder image 2"
     title: "Clockstrolabeoscope"
     excerpt: 'A game never seen before - Tetris but with 4 players in 4 different directions'
-    url: "#test-link"
+    url: "/project/project_clockstrolabeoscope/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row10:
@@ -87,7 +87,7 @@ feature_row10:
     alt: "placeholder image 2"
     title: "The Dragon Tales"
     excerpt: 'A game never seen before - Tetris but with 4 players in 4 different directions'
-    url: "#test-link"
+    url: "/project/project_dragon/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row55:
@@ -102,31 +102,31 @@ feature_row55:
     alt: "placeholder image 2"
     title: "Automata"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "/project/project_automata/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/project_laser.jpg
     title: "Laser Box"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "/project/project_box/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/project_taiko.jpg
     title: "Taiko-Runner"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "/project/project_taiko/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/project_digital_eye.jpg
     title: "Digital Eye"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "/project/project_digital/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/project_PC_case.jpg
     title: "Practical Mini-ITX PC Case"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "/project/project_itx/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---

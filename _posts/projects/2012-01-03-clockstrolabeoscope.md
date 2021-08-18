@@ -1,6 +1,6 @@
 ---
-title: "SPLUX"
-permalink: /project/project_splux/
+title: "Clockstrolabeoscope"
+permalink: /project/project_clockstrolabeoscope/
 categories:
   - Project
 header:
