@@ -5,11 +5,11 @@ categories:
   - Project
 header:
   image: assets/images/unsplash-image-9.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 tags:
-  - table of contents
+  - SolidWorks
+  - Design
 toc: true
-toc_label: "Unique Title"
+toc_label: "Table of Contents"
 toc_icon: "heart"
 ---
 
