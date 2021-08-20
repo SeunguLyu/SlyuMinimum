@@ -118,7 +118,7 @@ feature_row55:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/project_digital_eye.jpg
-    title: "Digital Eye"
+    title: "Digital Eye - Homage"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "/project/project_digital/"
     btn_label: "Read More"
