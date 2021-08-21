@@ -12,7 +12,7 @@ header:
     - label: "<i class='fas fa-info-circle'></i> About"
       url: "/about/"
 excerpt: >
-  Studying Robo/Computer Engineering at Olin College of Engineering
+  Junior CS student at Olin College of Engineering
 feature_row:
   - image_path: /assets/images/project_castle_of_air.jpg
     alt: "customizable"
