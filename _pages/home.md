@@ -1,5 +1,5 @@
 ---
-title: "SeungU Lyu"
+title: "Hello!"
 layout: splash
 permalink: /
 hidden: true
@@ -12,7 +12,7 @@ header:
     - label: "<i class='fas fa-info-circle'></i> About"
       url: "/about/"
 excerpt: >
-  Junior CS student at Olin College of Engineering
+  I'm a junior CS student at Olin College of Engineering. My major interest is in software engineering and its applications to creative game development and interactive robotics
 feature_row:
   - image_path: /assets/images/project_castle_of_air.jpg
     alt: "customizable"

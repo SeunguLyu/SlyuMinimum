@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SlyuHome"
+title                    : "SeungU Lyu"
 title_separator          : "-"
-subtitle                 : "Welcome" # site tagline that appears below site title in masthead
+subtitle                 : "Junior CS student @ Olin College of Engineering" # site tagline that appears below site title in masthead
 name                     : "SeungU Lyu"
-description              : "An amazing website."
+description              : ""
 url                      : "https://seungulyu.com"
 baseurl                  : ""
 repository               : "SeunguLyu/SlyuMinimum" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
