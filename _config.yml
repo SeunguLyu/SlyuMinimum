@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "SeungU Lyu"
 title_separator          : "-"
-subtitle                 : "Junior CS student @ Olin College of Engineering" # site tagline that appears below site title in masthead
+subtitle                 : "CS student @ Olin College of Engineering" # site tagline that appears below site title in masthead
 name                     : "SeungU Lyu"
 description              : ""
 url                      : "https://seungulyu.com"
@@ -103,28 +103,25 @@ analytics:
 author:
   name             : "SeungU Lyu"
   avatar           : "/assets/images/seungu_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Robo-Engineer"
+  bio              : "Junior CS student at Olin College of Engineering with major interest in software engineering"
   location         : "Boston, MA"
   email            : travislyu@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:travislyu@gmail.com"
-    - label: "1006 Games"
-      icon: "fas fa-fw fa-link"
-      url: "https://k2sebeom.github.io/1006Games.io/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin icon-black"
+      url: "https://www.linkedin.com/in/seungu-lyu/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SeunguLyu"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file"
+      url: "https://facebook.com/"
 
 # Site Footer
 footer:
@@ -141,9 +138,9 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/seungu-lyu/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
