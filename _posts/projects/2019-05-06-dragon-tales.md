@@ -31,7 +31,7 @@ gallery5:
 
 {% include gallery id="gallery" %}
 
-# ENGR 2330: Introduction to Mechanical Prototyping, TS Sculpture Project
+## ENGR 2330: Introduction to Mechanical Prototyping, TS Sculpture Project
 
 ## Executive Summary
 
