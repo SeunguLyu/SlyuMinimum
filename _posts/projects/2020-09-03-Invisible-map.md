@@ -1,8 +1,8 @@
 ---
-title: "Practical Mini-ITX PC Case"
-permalink: /project/project_itx/
+title: "Invisible Map - IOS App Development"
+permalink: /project/project_invisible/
 categories:
-  - Mini Project
+  - Project
 header:
   image: assets/images/unsplash-image-9.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -13,4 +13,4 @@ toc_label: "Unique Title"
 toc_icon: "heart"
 ---
 
-Adding contents
+Adding Contents
