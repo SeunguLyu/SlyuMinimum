@@ -99,6 +99,18 @@ feature_row55:
     url: "ML1_Sign_Language_SeungU.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: /assets/images/project_PC_case.jpg
+    title: "Mini-ITX Case Design"
+    excerpt: "Design Project"
+    url: "/project/project_itx/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/project_taiko.jpg
+    title: "Taiko-Runner"
+    excerpt: "Electromechanical Project"
+    url: "/project/project_taiko/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/project_poke.jpg
     alt: "placeholder image 1"
     title: "Pokemon-PCA"
@@ -117,12 +129,6 @@ feature_row55:
     title: "Laser Box"
     excerpt: "Mechanical Project"
     url: "/project/project_box/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/project_taiko.jpg
-    title: "Taiko-Runner"
-    excerpt: "Electromechanical Project"
-    url: "/project/project_taiko/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/project_digital_eye.jpg

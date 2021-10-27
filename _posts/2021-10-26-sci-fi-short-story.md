@@ -5,7 +5,6 @@ categories:
   - Blog
 tags:
   - Personal Essay
-  - Sci-Fi
   - Short Story
 classes: wide
 ---

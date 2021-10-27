@@ -6,7 +6,7 @@ categories:
 header:
   image: assets/images/project_clockstrolabeoscope_half.jpg
 tags:
-  - SolideWorks
+  - SolidWorks
   - Design
 toc: true
 toc_label: "Table of Contents"

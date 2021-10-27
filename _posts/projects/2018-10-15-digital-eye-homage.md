@@ -7,6 +7,7 @@ header:
   image: assets/images/project_digital_eye_half.jpg
 tags:
   - Photography
+  - Photoshop
 toc: true
 toc_label: "Unique Title"
 toc_icon: "heart"
