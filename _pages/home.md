@@ -92,11 +92,18 @@ feature_row10:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row55:
+  - image_path: assets/images/project_ML_1.jpg
+    alt: "placeholder image 1"
+    title: "Sign Language CNN"
+    excerpt: "Machine Learning Project"
+    url: "ML1_Sign_Language_SeungU.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/project_poke.jpg
     alt: "placeholder image 1"
     title: "Pokemon-PCA"
     excerpt: "Linearity Project"
-    url: "https://htmlpreview.github.io/?https://github.com/SeunguLyu/Pokemon_PCA/blob/master/pokemon_type_pca_html.html"
+    url: "pokemon_type_pca.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/project_automata.jpg
