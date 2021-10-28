@@ -1,7 +1,7 @@
 ---
 title: "Sign Language CNN"
 categories:
-  - Project
+  - Mini Project
 tags:
   - Machine Learning
   - Python
