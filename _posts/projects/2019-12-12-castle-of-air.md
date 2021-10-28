@@ -3,7 +3,7 @@ title: "Castle of Air"
 categories:
   - Project
 tags:
-  - Solidworks
+  - SolidWorks
   - Design
 link: http://poe.olin.edu/2019/castleofair/
 ---

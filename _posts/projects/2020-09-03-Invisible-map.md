@@ -8,6 +8,8 @@ tags:
   - Swift
   - iOS
   - AR
+  - Prototyping
+  - UI/UX
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "heart"
