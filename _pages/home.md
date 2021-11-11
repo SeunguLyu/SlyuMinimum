@@ -79,7 +79,7 @@ feature_row9:
   - image_path: /assets/images/project_clockstrolabeoscope.jpg
     alt: "placeholder image 2"
     title: "Clockstrolabeoscope"
-    excerpt: 'Mechanical Project: Sheet Metal/Plastic sculpture about 16th century renaissance tool - The clock, astrolabe, and telescopte'
+    excerpt: 'Mechanical Project: Sheet Metal/Plastic sculpture about 16th century renaissance tool - The clock, astrolabe, and telescope'
     url: "/project/project_clockstrolabeoscope/"
     btn_label: "Read More"
     btn_class: "btn--primary"
