@@ -91,7 +91,25 @@ feature_row10:
     url: "/project/project_dragon/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row11:
+  - image_path: /assets/images/frank_sinatra.jpg
+    alt: "placeholder image 2"
+    title: "On The Ethics of Music Generation"
+    excerpt: 'Machine Learning Project: Consideration of ethics on music generation. <br>
+    [Report](/On_the_Ethics_of_Music_Generation.pdf) 
+    [Colab](https://colab.research.google.com/drive/1Yo38Zp0mHMpwRxA3idLzJ-urGndNkngK?usp=sharing) 
+    [Implementation](https://drive.google.com/file/d/1NFHi_FCWgULolcA8XUgHHYdvXR9Cg7Oc/view?usp=sharing)'
+    url: "/On_the_Ethics_of_Music_Generation.pdf"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row55:
+  - image_path: assets/images/memory_leak.jpg
+    alt: "placeholder image 1"
+    title: "Memory Leak"
+    excerpt: "C Game Project"
+    url: "https://github.com/SeunguLyu/SoftSysMemoryLeak"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/project_ML_1.jpg
     alt: "placeholder image 1"
     title: "Sign Language CNN"
@@ -141,6 +159,8 @@ feature_row55:
 
 # Projects
 ***
+
+{% include feature_row id="feature_row11" type="left" %}
 
 {% include feature_row id="feature_row" type="left" %}
 
