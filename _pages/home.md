@@ -10,7 +10,7 @@ header:
   overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
   overlay_image: /assets/images/banner1.jpg
 excerpt: >
-  I'm a junior CS student at Olin College of Engineering. My major interest is in software engineering and its applications to creative game development and interactive robotics
+  I'm a junior CS student at Olin College of Engineering. My major interest is in software engineering and its applications to creative game development
 feature_row:
   - image_path: /assets/images/project_elic2.jpg
     alt: "placeholder image 2"
@@ -102,6 +102,14 @@ feature_row11:
     url: "/On_the_Ethics_of_Music_Generation.pdf"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row12:
+  - image_path: /assets/images/sunny1.jpg
+    alt: "placeholder image 2"
+    title: "Social Technology Enterprise with Purpose (STEP)"
+    excerpt: 'Currently Adding More Contents'
+    url: "/project/project_step/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row55:
   - image_path: assets/images/memory_leak.jpg
     alt: "placeholder image 1"
@@ -181,6 +189,8 @@ feature_row55:
 {% include feature_row id="feature_row8" type="left" %}
 
 {% include feature_row id="feature_row4" type="left" %}
+
+{% include feature_row id="feature_row12" type="left" %}
 
 
 # Mini Project
