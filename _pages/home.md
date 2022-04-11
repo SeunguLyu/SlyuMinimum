@@ -95,7 +95,7 @@ feature_row11:
   - image_path: /assets/images/frank_sinatra.jpg
     alt: "placeholder image 2"
     title: "On The Ethics of Music Generation"
-    excerpt: 'Machine Learning Project: Consideration of ethics on music generation. <br>
+    excerpt: 'Machine Learning Project: Consideration of ethics on music generation <br>
     [Report](/On_the_Ethics_of_Music_Generation.pdf) 
     [Colab](https://colab.research.google.com/drive/1Yo38Zp0mHMpwRxA3idLzJ-urGndNkngK?usp=sharing) 
     [Implementation](https://drive.google.com/file/d/1NFHi_FCWgULolcA8XUgHHYdvXR9Cg7Oc/view?usp=sharing)'
