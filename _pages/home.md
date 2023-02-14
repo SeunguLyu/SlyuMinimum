@@ -10,7 +10,7 @@ header:
   overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
   overlay_image: /assets/images/banner1.jpg
 excerpt: >
-  I'm a junior CS student at Olin College of Engineering. My major interest is in software engineering and its applications to accessibility/game development
+  I'm a Senior CS student at Olin College of Engineering. My major interest is in software engineering and its applications to accessibility/game development
 feature_row:
   - image_path: /assets/images/project_elic2.jpg
     alt: "placeholder image 2"
@@ -97,7 +97,7 @@ feature_row11:
     title: "On The Ethics of Music Generation"
     excerpt: 'Machine Learning Project: Consideration of ethics on music generation <br>
     [Report](/On_the_Ethics_of_Music_Generation.pdf) 
-    [Colab](https://colab.research.google.com/drive/1Yo38Zp0mHMpwRxA3idLzJ-urGndNkngK?usp=sharing) 
+    [Colab](https://drive.google.com/file/d/1Rm3XxiCkpGTOE64JmkD6pYg3MqOv5xnW/view?usp=sharing) 
     [Implementation](https://drive.google.com/file/d/1NFHi_FCWgULolcA8XUgHHYdvXR9Cg7Oc/view?usp=sharing)'
     url: "/On_the_Ethics_of_Music_Generation.pdf"
     btn_label: "Read More"
@@ -115,8 +115,16 @@ feature_row13:
   - image_path: assets/images/multi-tanki.jpg
     alt: "placeholder image 1"
     title: "Multi-Tanki"
-    excerpt: "C Game Project: Simple multiplayer game created with C and SDL"
-    url: "https://youtu.be/H5mSYYUEZL0"
+    excerpt: "C Game Project: Multiplayer game created with C and SDL"
+    url: "https://github.com/olincollege/SoftSysMultiTanki"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row14:
+  - image_path: assets/images/neato_kart.jpg
+    alt: "placeholder image 1"
+    title: "Neato Kart"
+    excerpt: "ROS2 Robotics Project: Multiplayer AR racing game inspired by Mario Kart Live: Home Circuit (2020) using two physical Neatos"
+    url: "https://github.com/SeunguLyu/NeatoKart"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row55:
@@ -176,6 +184,8 @@ feature_row55:
 
 # Projects
 ***
+
+{% include feature_row id="feature_row14" type="left" %}
 
 {% include feature_row id="feature_row11" type="left" %}
 
