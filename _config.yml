@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "SeungU Lyu"
   avatar           : "/assets/images/seungu_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Junior CS student at Olin College of Engineering with major interest in software engineering"
+  bio              : "Senior CS student at Olin College of Engineering with major interest in software engineering"
   location         : "Boston, MA"
   email            : travislyu@gmail.com
   links:

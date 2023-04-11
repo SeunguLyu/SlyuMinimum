@@ -197,7 +197,7 @@ feature_row55:
 
 {% include feature_row id="feature_row13" type="left" %}
 
-{% include feature_row id="feature_row12" type="left" %}
+<!--{% include feature_row id="feature_row12" type="left" %}-->
 
 {% include feature_row id="feature_row4" type="left" %}
 
