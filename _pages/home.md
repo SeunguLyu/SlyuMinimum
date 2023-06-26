@@ -127,6 +127,24 @@ feature_row14:
     url: "https://github.com/SeunguLyu/NeatoKart"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row15:
+  - image_path: /assets/images/trp_gpt.jpg
+    alt: "placeholder image 2"
+    title: "TRP-GPT"
+    excerpt: 'Flutter/Python Project: Guidance to Designing Video Games for People with Motor Disabilities, a demo of Chat-GPT integrated TRPG game that can be played only by voice. <br>
+    [Report](/Designing_Video_Games.pdf) 
+    [Demo](https://youtu.be/uv9VXMOV6KE)'
+    url: "/Designing_Video_Games.pdf"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row16:
+  - image_path: /assets/images/scope.jpg
+    alt: "placeholder image 2"
+    title: "Senior Capstone: Amazon Robotics Team"
+    excerpt: 'Unity Project: TALOS - Easy to use User Interface for remote robot control'
+    url: "/project/project_scope/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row55:
   - image_path: assets/images/memory_leak.jpg
     alt: "placeholder image 1"
@@ -184,6 +202,9 @@ feature_row55:
 
 # Projects
 ***
+{% include feature_row id="feature_row16" type="left" %}
+
+{% include feature_row id="feature_row15" type="left" %}
 
 {% include feature_row id="feature_row14" type="left" %}
 
