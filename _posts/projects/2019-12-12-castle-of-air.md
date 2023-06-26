@@ -5,7 +5,7 @@ categories:
 tags:
   - SolidWorks
   - Design
-link: http://poe.olin.edu/2019/castleofair/
+link: http://pie.olin.edu/2019/castleofair/
 ---
 
 Link to the project

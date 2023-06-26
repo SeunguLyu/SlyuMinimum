@@ -56,7 +56,7 @@ feature_row6:
     alt: "placeholder image 2"
     title: "Castle of Air"
     excerpt: 'Electromechanical Project: Aesthetical music equalizer inspried by the Hogwarts castle for Harry Potter'
-    url: "http://poe.olin.edu/2019/castleofair/"
+    url: "http://pie.olin.edu/2019/castleofair/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row7:
